@@ -1,0 +1,22 @@
+This is a simple minesweeper clone I wrote in about 5 hours on a Friday night.
+I wrote it because I was starting to feel less motivated while working on
+several larger projects. Writing a simple program from concept to completion,
+even if the idea isn't original, provides the reward of actually having
+completed something. It is said that the reassurance of your ability to finish
+a project motivates you to continue working on the larger projects that seem to
+have no end. After writing this program, I definitely agree with the statement.
+I'm not particularly proud of the actual code, as it was written hastily, but
+it was good enough to get the project done in 5 hours, and that's the point.
+
+I'm open sourcing this project and releasing it under the zlib license. I hope
+it's useful to someone.
+
+																-Robert Rouhani
+													   robert.rouhani@gmail.com
+
+*****************
+*   CHANGELOG   *
+*****************
+
+1.0:
+	Initial release.
