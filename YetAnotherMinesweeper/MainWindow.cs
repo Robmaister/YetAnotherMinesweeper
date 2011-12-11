@@ -102,7 +102,6 @@ namespace YetAnotherMinesweeper
 			: base()
 		{
 			this.Title = "Yet Another Minesweeper Clone";
-			this.Location = new Point(1950, 20);
 			this.ClientSize = new System.Drawing.Size(512, 512);
 			mines = numMines;
 
